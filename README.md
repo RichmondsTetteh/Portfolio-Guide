@@ -1,6 +1,7 @@
 # 📁 Projects Portfolio
 
 Welcome to my data portfolio!
+
 Below is a collection of projects where I've applied data analysis, automation, and machine learning to solve real-world business problems.
 
 ## 📚 Table of Contents
