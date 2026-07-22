@@ -5,7 +5,7 @@ Below is a collection of projects where I've applied data analysis, automation, 
 
 ## 📚 Table of Contents
 - [Python](#python)
-- [Power BI](#power bi)
+- [Power BI](#power #bi)
 
 ***
 
@@ -13,7 +13,7 @@ Below is a collection of projects where I've applied data analysis, automation, 
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-|🚴 [FordGoBikeSystem](https://github.com/RichmondsTetteh/FordGoBikeSystem)) | Data Wrangling & EDA  | I analysed  approximately 183,412 customers of the Ford GoBike Sharing System to understand rider usage patterns, trip duration trends across user types and demographics, and how factors like membership status, gender, and bike-sharing behavior relate to overall ride characteristics. |numpy, pandas, matplotlib, seaborn|
+| 🚴 [FordGoBikeSystem](https://github.com/RichmondsTetteh/FordGoBikeSystem)) | Data Wrangling & EDA  | I analysed  approximately 183,412 customers that used Ford GoBike trips to uncover ride duration patterns, subscriber vs. customer behavior, and demographic trends in bike-sharing usage. | numpy, pandas, matplotlib, seaborn |
 
 
 
