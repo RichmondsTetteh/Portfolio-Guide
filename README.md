@@ -27,3 +27,4 @@ Below is a collection of projects where I've applied data analysis, automation, 
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
+| 💰 [Financial Tutorial]((https://github.com/RichmondsTetteh/PowerBI-Visualizations/tree/main)) |  Visualised key insights using Power BI | [Dashboard](https://github.com/RichmondsTetteh/PowerBI-Visualizations/blob/main/Financial%20Tutorial.pbix) |
